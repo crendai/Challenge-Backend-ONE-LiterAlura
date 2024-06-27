@@ -21,3 +21,5 @@ Este es un catálogo de libros interactivo desarrollado en Java utilizando Sprin
 ## 🌐 Uso de la API Gutendex
 
 La aplicación utiliza la API de Gutendex para buscar libros. Asegúrate de tener conexión a internet para que las solicitudes a la API funcionen correctamente.
+
+![Badge-LiterAlura.png](https://raw.githubusercontent.com/crendai/Challenge-Backend-ONE-LiterAlura/main/badge%20literalura.png)
